@@ -1,4 +1,5 @@
-﻿namespace ArbolNavidad
+﻿
+namespace ArbolNavidad
 {
     static class Program
     {
@@ -43,7 +44,7 @@
                 }
             }
 
-            Console.WriteLine($"Base: {baseArbol}");
+            Console.Clear();
 
             int filas = (baseArbol / 2) + 1;
 
