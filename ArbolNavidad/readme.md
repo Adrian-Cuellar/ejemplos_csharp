@@ -17,7 +17,7 @@ El número debe ser impar y mayor de 3.
 * Si el usuario introduce un número incorrecto (una letra, por ejemplo), el programa lo ignora y vuelve a pedir un número.
 * Se le debe indicar al usuario qué debe introducir: _Un número impar mayor de 3_.
 * **Al final, en la consola sólo se debe mostrar el árbol**, hay que borrar cualquier texto que hubiera antes.
-* Usar las librarías y funciones que se consideren necesarias.
+* Usar las librerías y funciones que se consideren necesarias.
 
 Resultado esperado para un árbol de base 3:
 ~~~~
